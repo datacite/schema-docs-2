@@ -39,7 +39,8 @@ td>ul {
 /* Format affiliation links */
 .affiliation img,
 .orcid img {
-  padding-right: 5px;
+  padding-left: 5px;
+  padding-right: 2px;
   height: 16px
 }
 

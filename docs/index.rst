@@ -9,119 +9,119 @@ Contributors from the DataCite Metadata Working Group:
 
 .. |Jan Ashton| raw:: html
 
-   <a class="orcid" href="https://orcid.org/0000-0003-4676-5263"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Jan Ashton</a>
+   <a class="orcid" href="https://orcid.org/0000-0003-4676-5263">Jan Ashton<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Isabel Bernal| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-2506-9947"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Isabel Bernal</a>
+  <a class="orcid" href="https://orcid.org/0000-0003-2506-9947">Isabel Bernal<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Felix Burger| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0001-6836-1193"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Felix Burger</a>
+  <a class="orcid" href="https://orcid.org/0000-0001-6836-1193">Felix Burger<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Madeleine de Smaele| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-8963-3415"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Madeleine de Smaele</a>
+  <a class="orcid" href="https://orcid.org/0000-0002-8963-3415">Madeleine de Smaele<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Samantha Foulger| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-2551-6399"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Samantha Foulger</a>
+  <a class="orcid" href="https://orcid.org/0000-0003-2551-6399">Samantha Foulger<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Vanessa Gabriel| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-2058-5160"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Vanessa Gabriel</a>
+  <a class="orcid" href="https://orcid.org/0000-0002-2058-5160">Vanessa Gabriel<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Ted Habermann| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-3585-6733"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Ted Habermann</a>
+  <a class="orcid" href="https://orcid.org/0000-0003-3585-6733">Ted Habermann<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Joseph Padfield| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-2572-6428"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Joseph Padfield</a>
+  <a class="orcid" href="https://orcid.org/0000-0002-2572-6428">Joseph Padfield<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Sarah Ramdeen| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-1135-5942"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Sarah Ramdeen</a>
+  <a class="orcid" href="https://orcid.org/0000-0003-1135-5942">Sarah Ramdeen<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Anne Raugh| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-8300-9443"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Anne Raugh</a>
+  <a class="orcid" href="https://orcid.org/0000-0002-8300-9443">Anne Raugh<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Wendy Robertson| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-3368-5080"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Wendy Robertson</a>
+  <a class="orcid" href="https://orcid.org/0000-0002-3368-5080">Wendy Robertson<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Mike Shallcross| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0001-6289-5717"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Mike Shallcross</a>
+  <a class="orcid" href="https://orcid.org/0000-0001-6289-5717">Mike Shallcross<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Mohamed Yahia| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0001-7829-1918"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Mohamed Yahia</a>
+  <a class="orcid" href="https://orcid.org/0000-0001-7829-1918">Mohamed Yahia<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Kelly Stathis| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0001-6133-4045"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Kelly Stathis</a>
+  <a class="orcid" href="https://orcid.org/0000-0001-6133-4045">Kelly Stathis<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Kristian Garza| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-3484-6875"><img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/>Kristian Garza</a>
+  <a class="orcid" href="https://orcid.org/0000-0003-3484-6875">Kristian Garza<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |British Library| raw:: html
 
-   <a class="affiliation" href="https://ror.org/05dhe8b71"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>British Library</a>
+   <a class="affiliation" href="https://ror.org/05dhe8b71">British Library<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |Spanish National Research Council (CSIC)| raw:: html
 
-   <a class="affiliation" href="https://ror.org/02gfc7t72"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>Spanish National Research Council (CSIC)</a>
+   <a class="affiliation" href="https://ror.org/02gfc7t72">Spanish National Research Council (CSIC)<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |TIB| raw:: html
 
-   <a class="affiliation" href="https://ror.org/04aj4c181"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>TIB</a>
+   <a class="affiliation" href="https://ror.org/04aj4c181">TIB<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |TU Delft Library| raw:: html
 
-   <a class="affiliation" href="https://ror.org/02e2c7k09"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>TU Delft Library</a>
+   <a class="affiliation" href="https://ror.org/02e2c7k09">TU Delft Library<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |ETH Zurich| raw:: html
 
-  <a class="affiliation" href="https://ror.org/05a28rw58"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>ETH Zurich</a>
+  <a class="affiliation" href="https://ror.org/05a28rw58">ETH Zurich<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |University Library of the LMU Munich| raw:: html
 
-  <a class="affiliation" href="https://ror.org/05591te55"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>University Library of the LMU Munich</a>
+  <a class="affiliation" href="https://ror.org/05591te55">University Library of the LMU Munich<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |Metadata Game Changers| raw:: html
 
-  <a class="affiliation" href="https://ror.org/05bp8ka05"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>Metadata Game Changers</a>
+  <a class="affiliation" href="https://ror.org/05bp8ka05">Metadata Game Changers<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |The National Gallery| raw:: html
 
-  <a class="affiliation" href="https://ror.org/043kfff89"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>The National Gallery</a>
+  <a class="affiliation" href="https://ror.org/043kfff89">The National Gallery<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |Columbia University| raw:: html
 
-  <a class="affiliation" href="https://ror.org/00hj8s172"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>Columbia University</a>
+  <a class="affiliation" href="https://ror.org/00hj8s172">Columbia University<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |University of Maryland| raw:: html
 
-  <a class="affiliation" href="https://ror.org/047s2c258"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>University of Maryland</a>
+  <a class="affiliation" href="https://ror.org/047s2c258">University of Maryland<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |University of Iowa| raw:: html
 
-  <a class="affiliation" href="https://ror.org/036jqmy94"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>University of Iowa</a>
+  <a class="affiliation" href="https://ror.org/036jqmy94">University of Iowa<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |Inter-university Consortium for Political and Social Research| raw:: html
 
-  <a class="affiliation" href="https://ror.org/02q7mkh03"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>Inter-university Consortium for Political and Social Research</a>
+  <a class="affiliation" href="https://ror.org/02q7mkh03">Inter-university Consortium for Political and Social Research<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |INIST-CNRS| raw:: html
 
-  <a class="affiliation" href="https://ror.org/02mn0vt57"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>INIST-CNRS</a>
+  <a class="affiliation" href="https://ror.org/02mn0vt57">INIST-CNRS<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |DataCite| raw:: html
 
-  <a class="affiliation" href="https://ror.org/04wxnsj81"><img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/>DataCite</a>
+  <a class="affiliation" href="https://ror.org/04wxnsj81">DataCite<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. only:: not latex
 
