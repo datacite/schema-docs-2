@@ -32,13 +32,19 @@ Example: https://api.datacite.org/dois/application/vnd.datacite.datacite+xml/10.
 Award
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Description:** FIXME
+**Description:** An umbrella term for resources provided to individual(s) or organization(s) in support of research, academic output, or training, such as a specific instance of funding, grant, investment, sponsorship, scholarship, recognition, or non-monetary materials.
 
-**Examples and Usage Notes:** FIXME
+**Examples and Usage Notes:** 
 
-Example: FIXME
+.. code:: xml
 
-**Suggested Dublin Core Mapping:** FIXME
+  <resourceType resourceTypeGeneral="Award">Grant</resourceType>
+
+.. code:: xml
+
+  <resourceType resourceTypeGeneral="Award">Facility use</resourceType>
+
+**Suggested Dublin Core Mapping:** N/A
 
 
 .. _Book:

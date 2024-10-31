@@ -589,7 +589,7 @@ IsTranslationOf
 
 **Example and Usage Notes:**
 
-FIXME
+When a resource is shared in one language, then later translated to another, use "IsTranslationOf" to link the translation to the original.
 
 .. code:: xml
 
@@ -605,7 +605,9 @@ HasTranslation
 
 **Example and Usage Notes:**
 
-FIXME
+When a resource is shared in one language, then later translated to another, use "HasTranslation" to link the original resource to its translation.
+
+When a resource is released at the same time in multiple languages, use "HasTranslation" to connect the works to each other in both directions.
 
 .. code:: xml
 

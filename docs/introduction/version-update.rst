@@ -3,14 +3,10 @@ Version 4.6 Update
 
 .. note::
 
-   For the first time, the DataCite Metadata Working Group is releasing the DataCite Metadata Schema documentation as web documentation.
-
    To access the documentation in PDF or Epub format, access the menu in the bottom left corner or the links below:
 
-   - PDF: https://datacite-metadata-schema.readthedocs.io/_/downloads/en/4.5/pdf/
-   - Epub: https://datacite-metadata-schema.readthedocs.io/_/downloads/en/4.5/epub/
-
-   To make the DataCite Metadata Schema more easily usable on the web, we have updated the documentation structure. As a result, numbering for footnotes, tables, and selected appendices has changed from Version 4.4.
+   - PDF: https://datacite-metadata-schema.readthedocs.io/_/downloads/en/4.6/pdf/
+   - Epub: https://datacite-metadata-schema.readthedocs.io/_/downloads/en/4.6/epub/
 
 These changes are in response to requests from DataCite community members, people like you that have used the metadata schema and have imagined ways in which it might work better for their particular use cases. We are indebted to everyone who has provided us with their feedback, allowing us to improve our service for the broader DataCite community.
 
@@ -40,8 +36,3 @@ Documentation changes
 -----------------------------
 
 * Clarification of the allowed values for :ref:`9`.
-
-Other changes and corrections
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* FIXME
