@@ -8,7 +8,7 @@ Version 4.6 Update
    - PDF: https://datacite-metadata-schema.readthedocs.io/_/downloads/en/4.6/pdf/
    - Epub: https://datacite-metadata-schema.readthedocs.io/_/downloads/en/4.6/epub/
 
-These changes are in response to requests from DataCite community members, people like you that have used the metadata schema and have imagined ways in which it might work better for their particular use cases. We are indebted to everyone who has provided us with their feedback, allowing us to improve our service for the broader DataCite community.
+These changes are in response to requests from DataCite community members—people like you that have used the metadata schema and have imagined ways in which it might work better for their particular use cases. We are indebted to everyone who has provided us with their feedback, allowing us to improve our service for the broader DataCite community.
 
 .. contents:: :local:
     :backlinks: none
