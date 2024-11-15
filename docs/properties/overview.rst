@@ -100,6 +100,7 @@ This provides a way to describe the language used for the *content of the specif
 The schema provides the :ref:`9` property to be used to describe the language of the resource.
 
 
+
 Mandatory Properties
 -------------------------------------------------
 
@@ -128,6 +129,15 @@ Table 1: DataCite Mandatory Properties
 +----+-----------------------------------------------------------------------------------------+------------+
 | 10 | :ref:`ResourceType <10>`                                                                | M          |
 +----+-----------------------------------------------------------------------------------------+------------+
+
+Guidance for handling missing mandatory property values
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If providing values for any of the mandatory properties presents a difficulty, use of standard machine - recognizable codes is strongly advised. A set of the codes is provided in :doc:`/appendices/appendix-3`. However, we recommend that you consider the resulting effect on the citation created from the metadata provided.
+
+Here is an example of a citation that uses machine-readable substitutions for all but one of the required metadata properties. Obviously the more metadata that is supplied, the more information is conveyed. Note that this is a demonstration DOI and not an actual identifier, so the link will not work. ::
+
+  :unkn 9999: :none. :null. Dataset. https://doi.org/10.5072/FK2JW8C992
 
 
 Recommended and Optional Properties
@@ -177,3 +187,4 @@ Table 2: DataCite Recommended and Optional Properties
 .. rubric:: Footnotes
 .. [#f1] This convention is known as “camelCase.” https://en.wikipedia.org/wiki/CamelCase
 .. [#f2] Allowed values `IETF BCP 47 <https://en.wikipedia.org/wiki/IETF_language_tag>`_, `ISO 639-1 language codes <https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes>`_, e.g. en, de, fr
+
