@@ -84,18 +84,27 @@ Because XML attributes are not repeatable, sub-properties represented as attribu
      - Sub-property
      - :ref:`2.1.a`
 
-XML provides an xml:lang attribute [#f2]_ that can be used on the following properties and sub-properties:
 
+.. _xmllang:
+
+xml:lang
+^^^^^^^^^^^^
+
+XML provides an `xml:lang` attribute [#f2]_ that can be used on the following properties and sub-properties:
+
+* :ref:`2.1`
 * :ref:`3`
 * :ref:`4`
 * :ref:`6`
+* :ref:`7.1`
 * :ref:`16`
 * :ref:`17`
+* :ref:`20.2.1`
 * :ref:`20.3`
-* :ref:`2.1` when :ref:`2.1.a` is "Organizational"
-* :ref:`7.1` when :ref:`7.1.a` is "Organizational"
+* :ref:`20.12.1` 
 
-This provides a way to describe the language used for the *content of the specified properties*.
+This provides a way to describe the language used for the *content of the specified properties*. [#f3]_
+
 
 The schema provides the :ref:`9` property to be used to describe the language of the resource.
 
@@ -186,5 +195,5 @@ Table 2: DataCite Recommended and Optional Properties
 
 .. rubric:: Footnotes
 .. [#f1] This convention is known as “camelCase.” https://en.wikipedia.org/wiki/CamelCase
-.. [#f2] Allowed values `IETF BCP 47 <https://en.wikipedia.org/wiki/IETF_language_tag>`_, `ISO 639-1 language codes <https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes>`_, e.g. en, de, fr
-
+.. [#f2] `xml:lang` values must follow the pattern defined by the `XML schema language type <https://www.w3.org/TR/xmlschema-2/#language>`_, e.g.: fr, cmn, nys, swh.  See the W3C’s `Choosing a Language Tag <https://www.w3.org/International/questions/qa-choosing-language-tags>`_ for guidance on recommended values.
+.. [#f3] For creator and contributor names, `xml:lang` is recommended only when nameType is "Organizational".

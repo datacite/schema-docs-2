@@ -36,3 +36,4 @@ Documentation changes
 -----------------------------
 
 * Clarification of the allowed values for :ref:`9`.
+* Updated the guidance for using :ref:`xmllang`.
