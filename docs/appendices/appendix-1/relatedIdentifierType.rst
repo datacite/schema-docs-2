@@ -64,6 +64,22 @@ bibcode
 Note: bibcodes can be searched via https://ui.adsabs.harvard.edu/ or resolved using ``https://ui.adsabs.harvard.edu/abs/<bibcode>``.
 
 
+.. _CSTR:
+
+CSTR
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Full Name:** Common Science and Technology Resources Identifier
+
+**Description:** CSTR is an identifier based on the Chinese National Standard GB/T 32843—2016 "Science and technology resource identification", providing a unique identification service for scientific data, papers, scientific institutions, researchers, scientific instruments, patents and other scientific and technological resources.
+
+**Example:**
+
+.. code:: xml
+
+  <relatedIdentifier relatedIdentifierType="CSTR" relationType="References">31253.11.sciencedb.13238</relatedIdentifier>
+
+
 .. _DOI:
 
 DOI
@@ -254,6 +270,22 @@ PURL
 .. code:: xml
 
   <relatedIdentifier relatedIdentifierType="PURL" relationType="Cites">http://purl.oclc.org/foo/bar</relatedIdentifier>
+
+
+.. _RRID:
+
+RRID
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Full Name:** Research Resource IDentifier
+
+**Description:** A character string used to uniquely identify key inputs to an experiment including the so-called "key biological resources" as defined by the National Institutes of Health, and related tools such as core facilities and databases. An RRID name is divided into two parts, the authority and a local identifier, separated by an underscore.
+
+**Example:**
+
+.. code:: xml
+
+  <relatedIdentifier relatedIdentifierType="RRID" relationType="Cites">RRID:SCR_014641</relatedIdentifier>
 
 
 .. _UPC:

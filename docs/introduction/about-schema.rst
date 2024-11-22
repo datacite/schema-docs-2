@@ -5,7 +5,7 @@ About the DataCite Metadata Schema
 
 .. note::
 
-   **Citation:** DataCite Metadata Working Group. (2024). DataCite Metadata Schema Documentation for the Publication and Citation of Research Data and Other Research Outputs. Version 4.5. DataCite e.V. https://doi.org/10.14454/g8e5-6293
+   **Citation:** DataCite Metadata Working Group. (2024). DataCite Metadata Schema Documentation for the Publication and Citation of Research Data and Other Research Outputs. Version 4.6. DataCite e.V. https://doi.org/10.14454/mzv1-5b55
 
    Note that the schema and this documentation will always have the same version number.
 
@@ -19,4 +19,4 @@ DataCite clients are strongly encouraged to provide metadata in English whenever
 
 For a list of all changes accompanying this release, see :doc:`version-update`.
 
-Lastly, we continue to support openness and the future extensibility of the schema by collaborating with the `Dublin Core Metadata Initiative (DCMI) Science and Metadata Community (SAM) <http://www.dublincore.org/groups/sam/>`_ to maintain a DataCite to Dublin Core crosswalk, available at :doc:`DataCite to Dublin Core Mapping 4.5 </mappings/dublincore>`.
+Lastly, we continue to support openness and the future extensibility of the schema by collaborating with the `Dublin Core Metadata Initiative (DCMI) Science and Metadata Community (SAM) <http://www.dublincore.org/groups/sam/>`_ to maintain a DataCite to Dublin Core crosswalk, available at :doc:`DataCite to Dublin Core Mapping </mappings/dublincore>`.

@@ -578,3 +578,37 @@ May be used to indicate the relationship between an instrument and where it has 
 .. code:: xml
 
   <relatedIdentifier relatedIdentifierType="DOI"relationType="Collects">10.5072/data</relatedIdentifier>
+
+
+.. _IsTranslationOf:
+
+IsTranslationOf
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definition:** indicates A is a translation of B
+
+**Example and Usage Notes:**
+
+When a resource is shared in one language, then later translated to another, use "IsTranslationOf" to link the translation to the original.
+
+.. code:: xml
+
+  <relatedIdentifier relatedIdentifierType="DOI" relationType="IsTranslationOf">>10.21384/828a-cm38</relatedIdentifier>
+
+
+.. _HasTranslation:
+
+HasTranslation
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definition:** indicates A has a translation B
+
+**Example and Usage Notes:**
+
+When a resource is shared in one language, then later translated to another, use "HasTranslation" to link the original resource to its translation.
+
+When a resource is released at the same time in multiple languages, use "HasTranslation" to connect the works to each other in both directions.
+
+.. code:: xml
+
+  <relatedIdentifier relatedIdentifierType="DOI"relationType="HasTranslation">10.21384/g01j-jm06</relatedIdentifier>

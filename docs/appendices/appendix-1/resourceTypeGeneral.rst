@@ -24,8 +24,27 @@ Audiovisual
 
 Example: https://api.datacite.org/dois/application/vnd.datacite.datacite+xml/10.17608/k6.auckland.4620790.v1
 
-
 **Suggested Dublin Core Mapping:** MovingImage
+
+
+.. _Award:
+
+Award
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Description:** An umbrella term for resources provided to individual(s) or organization(s) in support of research, academic output, or training, such as a specific instance of funding, grant, investment, sponsorship, scholarship, recognition, or non-monetary materials.
+
+**Examples and Usage Notes:** 
+
+.. code:: xml
+
+  <resourceType resourceTypeGeneral="Award">Grant</resourceType>
+
+.. code:: xml
+
+  <resourceType resourceTypeGeneral="Award">Facility use</resourceType>
+
+**Suggested Dublin Core Mapping:** N/A
 
 
 .. _Book:
@@ -352,6 +371,29 @@ Example:
   <resourceType resourceTypeGeneral="Preprint">Research Paper</resourceType>
 
 **Suggested Dublin Core Mapping:** Text
+
+
+.. _Project:
+
+Project
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Description:** A planned endeavor or activity, frequently collaborative, intended to achieve a particular aim using allocated resources such as budget, time, and expertise.
+
+**Examples and Usage Notes:** This resource type represents the project and includes research projects and studies. For a project deliverable or description of a project, use the corresponding resource type for the output—e.g., for a project report, dissertation, or study registration, use the resourceTypeGeneral “Report”, “Dissertation”, or “StudyRegistration” instead.
+
+Examples:
+
+.. code:: xml
+
+  <resourceType resourceTypeGeneral="Project">Field season</resourceType>
+
+.. code:: xml
+
+  <resourceType resourceTypeGeneral="Project">Cohort study</resourceType>
+
+
+**Suggested Dublin Core Mapping:** N/A
 
 
 .. _Report:

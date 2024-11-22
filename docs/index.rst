@@ -3,7 +3,7 @@ DataCite Metadata Schema Documentation for the Publication and Citation of Resea
 
 .. note::
 
-  DataCite Metadata Working Group. (2024). DataCite Metadata Schema for the Publication and Citation of Research Data and Other Research Outputs. Version 4.5. DataCite e.V. https://doi.org/10.14454/g8e5-6293
+  DataCite Metadata Working Group. (2024). DataCite Metadata Schema for the Publication and Citation of Research Data and Other Research Outputs. Version 4.6. DataCite e.V. https://doi.org/10.14454/mzv1-5b55
 
 Contributors from the DataCite Metadata Working Group:
 
@@ -15,17 +15,17 @@ Contributors from the DataCite Metadata Working Group:
 
   <a class="orcid" href="https://orcid.org/0000-0003-2506-9947">Isabel Bernal<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
-.. |Felix Burger| raw:: html
+.. |Matthias Liffers| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0001-6836-1193">Felix Burger<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-3639-2080">Matthias Liffers<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
-.. |Madeleine de Smaele| raw:: html
+.. |Anusuriya Devaraju| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-8963-3415">Madeleine de Smaele<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0003-0870-3192">Anusuriya Devaraju<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
-.. |Samantha Foulger| raw:: html
+.. |Kirsten Elger| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-2551-6399">Samantha Foulger<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0001-5140-8602">Kirsten Elger<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Vanessa Gabriel| raw:: html
 
@@ -39,9 +39,9 @@ Contributors from the DataCite Metadata Working Group:
 
   <a class="orcid" href="https://orcid.org/0000-0002-2572-6428">Joseph Padfield<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
-.. |Sarah Ramdeen| raw:: html
+.. |Andrea Medina-Smith| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-1135-5942">Sarah Ramdeen<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-1217-701X">Andrea Medina-Smith<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Anne Raugh| raw:: html
 
@@ -55,17 +55,29 @@ Contributors from the DataCite Metadata Working Group:
 
   <a class="orcid" href="https://orcid.org/0000-0001-6289-5717">Mike Shallcross<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
-.. |Mohamed Yahia| raw:: html
+.. |Jessica Parland-von Essen| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0001-7829-1918">Mohamed Yahia<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0003-4460-3906">Jessica Parland-von Essen<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |Kelly Stathis| raw:: html
 
   <a class="orcid" href="https://orcid.org/0000-0001-6133-4045">Kelly Stathis<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
-.. |Kristian Garza| raw:: html
+.. |Nicola Tarocco| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-3484-6875">Kristian Garza<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-2227-1229">Nicola Tarocco<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+
+.. |Hana Vyčítalová| raw:: html
+
+  <a class="orcid" href="https://orcid.org/0000-0002-8323-5790">Hana Vyčítalová<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+
+.. |Alexander Whelan| raw:: html
+
+  <a class="orcid" href="https://orcid.org/0000-0002-5551-8232">Alexander Whelan<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+
+.. |Sara El-Gebali| raw:: html
+
+  <a class="orcid" href="https://orcid.org/0000-0003-1378-5495">Sara El-Gebali<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
 
 .. |British Library| raw:: html
 
@@ -75,17 +87,17 @@ Contributors from the DataCite Metadata Working Group:
 
    <a class="affiliation" href="https://ror.org/02gfc7t72">Spanish National Research Council (CSIC)<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
-.. |TIB| raw:: html
+.. |Australian Research Data Commons| raw:: html
 
-   <a class="affiliation" href="https://ror.org/04aj4c181">TIB<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
+   <a class="affiliation" href="https://ror.org/038sjwq14">Australian Research Data Commons<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
-.. |TU Delft Library| raw:: html
+.. |Commonwealth Scientific and Industrial Research Organisation (CSIRO)| raw:: html
 
-   <a class="affiliation" href="https://ror.org/02e2c7k09">TU Delft Library<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
+   <a class="affiliation" href="https://ror.org/03qn8fb07">Commonwealth Scientific and Industrial Research Organisation (CSIRO)<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
-.. |ETH Zurich| raw:: html
+.. |GFZ German Research Centre for Geosciences| raw:: html
 
-  <a class="affiliation" href="https://ror.org/05a28rw58">ETH Zurich<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
+   <a class="affiliation" href="https://ror.org/04z8jg394">GFZ German Research Centre for Geosciences<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |University Library of the LMU Munich| raw:: html
 
@@ -99,9 +111,9 @@ Contributors from the DataCite Metadata Working Group:
 
   <a class="affiliation" href="https://ror.org/043kfff89">The National Gallery<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
-.. |Columbia University| raw:: html
+.. |National Institute of Standards and Technology (US)| raw:: html
 
-  <a class="affiliation" href="https://ror.org/00hj8s172">Columbia University<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
+   <a class="affiliation" href="https://ror.org/05xpvk416">National Institute of Standards and Technology (US)<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |University of Maryland| raw:: html
 
@@ -115,9 +127,21 @@ Contributors from the DataCite Metadata Working Group:
 
   <a class="affiliation" href="https://ror.org/02q7mkh03">Inter-university Consortium for Political and Social Research<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
-.. |INIST-CNRS| raw:: html
+.. |CSC - IT Center for Science| raw:: html
 
-  <a class="affiliation" href="https://ror.org/02mn0vt57">INIST-CNRS<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
+   <a class="affiliation" href="https://ror.org/04m8m1253">CSC - IT Center for Science<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
+
+.. |CERN| raw:: html
+
+   <a class="affiliation" href="https://ror.org/01ggx4157">CERN<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
+
+.. |National Library of Technology (Czech Republic)| raw:: html
+
+   <a class="affiliation" href="https://ror.org/028txef36">National Library of Technology (Czech Republic)<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
+
+.. |New York University| raw:: html
+
+   <a class="affiliation" href="https://ror.org/0190ak572">New York University<img alt="ROR logo" src="https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"/></a>
 
 .. |DataCite| raw:: html
 
@@ -125,39 +149,45 @@ Contributors from the DataCite Metadata Working Group:
 
 .. only:: not latex
 
-  * |Jan Ashton|, |British Library| (co-chair of working group)
-  * |Isabel Bernal|, |Spanish National Research Council (CSIC)| (co-chair of working group)
-  * |Felix Burger|, |TIB|
-  * |Madeleine de Smaele|, |TU Delft Library|
-  * |Samantha Foulger|, |ETH Zurich|
+  * |Matthias Liffers|, |Australian Research Data Commons| (co-chair of working group)
+  * |Wendy Robertson|, |University of Iowa| (co-chair of working group)
+  * |Jan Ashton|, |British Library|
+  * |Isabel Bernal|, |Spanish National Research Council (CSIC)|
+  * |Anusuriya Devaraju|, |Commonwealth Scientific and Industrial Research Organisation (CSIRO)|
+  * |Kirsten Elger|, |GFZ German Research Centre for Geosciences|
   * |Vanessa Gabriel|, |University Library of the LMU Munich|
   * |Ted Habermann|, |Metadata Game Changers|
+  * |Andrea Medina-Smith|, |National Institute of Standards and Technology (US)|
   * |Joseph Padfield|, |The National Gallery|
-  * |Sarah Ramdeen|, |Columbia University|
+  * |Jessica Parland-von Essen|, |CSC - IT Center for Science|
   * |Anne Raugh|, |University of Maryland|
-  * |Wendy Robertson|, |University of Iowa|
   * |Mike Shallcross|, |Inter-university Consortium for Political and Social Research|
-  * |Mohamed Yahia|, |INIST-CNRS|
+  * |Nicola Tarocco|, |CERN|
+  * |Hana Vyčítalová|, |National Library of Technology (Czech Republic)|
+  * |Alexander Whelan|, |New York University|
   * |Kelly Stathis|, |DataCite|
-  * |Kristian Garza|, |DataCite|
+  * |Sara El-Gebali|, |DataCite|
 
 .. only:: latex
 
-  * Jan Ashton, British Library (co-chair of working group)
-  * Isabel Bernal, Spanish National Research Council (CSIC) (co-chair of working group)
-  * Felix Burger, TIB
-  * Madeleine de Smaele, TU Delft Library
-  * Samantha Foulger, ETH Zurich
+  * Matthias Liffers, Australian Research Data Commons (co-chair of working group)
+  * Wendy Robertson, University of Iowa (co-chair of working group)
+  * Jan Ashton, British Library
+  * Isabel Bernal, Spanish National Research Council (CSIC)
+  * Anusuriya Devaraju, Commonwealth Scientific and Industrial Research Organisation (CSIRO) 
+  * Kirsten Elger, GFZ German Research Centre for Geosciences
   * Vanessa Gabriel, University Library of the LMU Munich
   * Ted Habermann, Metadata Game Changers
+  * Andrea Medina-Smith, National Institute of Standards and Technology (US)
   * Joseph Padfield, The National Gallery
-  * Sarah Ramdeen, Columbia University
+  * Jessica Parland-von Essen, CSC - IT Center for Science
   * Anne Raugh, University of Maryland
-  * Wendy Robertson, University of Iowa
   * Mike Shallcross, Inter-university Consortium for Political and Social Research
-  * Mohamed Yahia, INIST-CNRS
+  * Nicola Tarocco, CERN
+  * Hana Vyčítalová, National Library of Technology (Czech Republic)
+  * Alexander Whelan, New York University
   * Kelly Stathis, DataCite
-  * Kristian Garza, DataCite
+  * Sara El-Gebali, DataCite
 
 
 Contents

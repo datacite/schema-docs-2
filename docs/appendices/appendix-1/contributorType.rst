@@ -215,6 +215,15 @@ Supervisor
 **Usage Notes:** ---
 
 
+.. _Translator:
+
+Translator
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Description:** A person, organization, or automated system responsible for converting the content of a resource from one language into another, preserving its meaning and intended message.
+
+**Usage Notes:** This contributor type should be applied to DOI metadata for a resource which has been translated from another resource.
+
 .. _WorkPackageLeader:
 
 WorkPackageLeader

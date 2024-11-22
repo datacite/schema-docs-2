@@ -50,6 +50,16 @@ Collected
 **Usage Notes:** To indicate precise or particular timeframes in which research was conducted.
 
 
+.. _Coverage:
+
+Coverage
+~~~~~~~~~~~~~~~~~
+
+**Description:** The date or date range that the resource content applies to, describes, or covers.
+
+**Usage Notes:** To indicate the temporal coverage of the resource, use Coverage. This may be different from Collected.
+
+
 .. _Created:
 
 Created
