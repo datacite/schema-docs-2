@@ -9,75 +9,75 @@ Contributors from the DataCite Metadata Working Group:
 
 .. |Jan Ashton| raw:: html
 
-   <a class="orcid" href="https://orcid.org/0000-0003-4676-5263">Jan Ashton<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+   <a class="orcid" href="https://orcid.org/0000-0003-4676-5263">Jan Ashton<img alt="ORCID logo" src="_static/ORCID-iD_icon_16x16.png"/></a>
 
 .. |Isabel Bernal| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-2506-9947">Isabel Bernal<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0003-2506-9947">Isabel Bernal<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Matthias Liffers| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-3639-2080">Matthias Liffers<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-3639-2080">Matthias Liffers<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Anusuriya Devaraju| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-0870-3192">Anusuriya Devaraju<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0003-0870-3192">Anusuriya Devaraju<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Kirsten Elger| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0001-5140-8602">Kirsten Elger<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0001-5140-8602">Kirsten Elger<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Vanessa Gabriel| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-2058-5160">Vanessa Gabriel<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-2058-5160">Vanessa Gabriel<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Ted Habermann| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-3585-6733">Ted Habermann<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0003-3585-6733">Ted Habermann<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Joseph Padfield| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-2572-6428">Joseph Padfield<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-2572-6428">Joseph Padfield<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Andrea Medina-Smith| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-1217-701X">Andrea Medina-Smith<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-1217-701X">Andrea Medina-Smith<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Anne Raugh| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-8300-9443">Anne Raugh<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-8300-9443">Anne Raugh<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Wendy Robertson| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-3368-5080">Wendy Robertson<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-3368-5080">Wendy Robertson<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Mike Shallcross| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0001-6289-5717">Mike Shallcross<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0001-6289-5717">Mike Shallcross<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Jessica Parland-von Essen| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-4460-3906">Jessica Parland-von Essen<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0003-4460-3906">Jessica Parland-von Essen<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Kelly Stathis| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0001-6133-4045">Kelly Stathis<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0001-6133-4045">Kelly Stathis<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Nicola Tarocco| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-2227-1229">Nicola Tarocco<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-2227-1229">Nicola Tarocco<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Hana Vyčítalová| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-8323-5790">Hana Vyčítalová<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-8323-5790">Hana Vyčítalová<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Alexander Whelan| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0002-5551-8232">Alexander Whelan<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0002-5551-8232">Alexander Whelan<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |Sara El-Gebali| raw:: html
 
-  <a class="orcid" href="https://orcid.org/0000-0003-1378-5495">Sara El-Gebali<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png"/></a>
+  <a class="orcid" href="https://orcid.org/0000-0003-1378-5495">Sara El-Gebali<img alt="ORCID logo" src="_static/orcid-id_icon_16x16.png"/></a>
 
 .. |British Library| raw:: html
 
