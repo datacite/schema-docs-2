@@ -593,7 +593,7 @@ When a resource is shared in one language, then later translated to another, use
 
 .. code:: xml
 
-  <relatedIdentifier relatedIdentifierType="DOI" relationType="IsTranslationOf">>10.21384/828a-cm38</relatedIdentifier>
+  <relatedIdentifier relatedIdentifierType="DOI" relationType="IsTranslationOf">10.21384/828a-cm38</relatedIdentifier>
 
 
 .. _HasTranslation:
